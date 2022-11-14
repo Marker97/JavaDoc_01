@@ -13,7 +13,7 @@ public class Main {
         WordGames wordGames = new WordGames();
         /**
          * using the object created, call back the two methods of WordGames
-         * change the param input like String
+         * assign values to the param of the two methods
          */
         wordGames.addHelloWord("Hello Word");
         wordGames.getFullName("Marcus", "Marziano");
